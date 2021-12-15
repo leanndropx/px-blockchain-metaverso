@@ -140,35 +140,3 @@ receiver: Bob
 
    
 
-# 6. O protocolo de consenso proof-of-work
-
-# 7. Demonstração prática de uma Blockchain
-
-# 8. O que é uma criptomoeda
-
-# 9. As principais ideias de Satoshi Nakamoto
-
-# 10. Como adquirir bitcoin por meio da mineração
-
-# 11. Como adquirir BTC nas exchanges - Primeira parte
-
-# 11.  Como adquirir BTC nas exchanges - bônus
-
-# 12. Como armazenar seus bitcoins 
-
-# 13. O que são altcoins e quais as principais
-
-# 14. O que são as famosas ICO's
-
-# 15. As diferenças entre security tokens e utility tokens
-
-# 16. O que são os Smart Contracts
-
-# 17. Blockchain e proteção de daods
-
-# 18. Blockchain aplicada aos negócios
-
-# 19. LGPD, Direito Digital, Inteligência Artificial e Smart Contracts
-
-# 20. Blockchain e proteção de dados
-
